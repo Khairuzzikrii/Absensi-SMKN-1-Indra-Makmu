@@ -1,0 +1,5 @@
+{
+  "name": "Sistem Absensi Guru SMKN 1 Indra Makmu",
+  "description": "A web-based teacher attendance system for SMKN 1 Indra Makmu, featuring role-based access for teachers and administrators, GPS-based location verification for attendance, and comprehensive reporting tools for admins.",
+  "requestFramePermissions": []
+}
